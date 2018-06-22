@@ -1,0 +1,16 @@
+body{
+	margin:0 auto;
+	width:100%;
+	padding:0;
+	background:#eeeeee;
+}
+
+.container{
+	padding-top:50px;
+	margin:0 auto;
+	width:500px;
+}
+
+.game_heading{
+	text-align:center;
+}
